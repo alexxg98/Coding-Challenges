@@ -8,6 +8,7 @@ For example: if num = 4, then your program should return (4 * 3 * 2 * 1) = 24.
 import java.util.Scanner;
 
 public class firstFactorial {
+  //Using recursion as the solution
   public static int factorial(int num){
     if(num==1){
       return 1;
@@ -15,6 +16,7 @@ public class firstFactorial {
     return num * factorial(num-1);
   }
 
+  //Using loops as the solution
 //   public static int factorial(int num){
 //     for (int i = num-1; i >= 1; i--){
 //       num *= i;
