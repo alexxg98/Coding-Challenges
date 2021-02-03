@@ -29,3 +29,7 @@ In python 3:
 [Get Money Spent](https://github.com/alexxg98/Coding-Challenges/blob/master/Hackerrank/getMoneySpent.py)
 
 [Diagonal Difference](https://github.com/alexxg98/Coding-Challenges/blob/master/Hackerrank/diagonalDifference.py)
+
+## Practice
+
+[Java Loops II](https://github.com/alexxg98/Coding-Challenges/blob/master/Hackerrank/loops2.java)

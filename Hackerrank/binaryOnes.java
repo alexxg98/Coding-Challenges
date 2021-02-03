@@ -3,10 +3,10 @@
 Given a base- integer, , convert it to binary (base-). Then find and print the base- integer denoting the maximum number of consecutive 's in 's binary representation.
 
 Sample Case 1:
-The binary representation of  is , so the maximum number of consecutive 's is .
+The binary representation of 5(base10) is 101(base2), so the maximum number of consecutive 1's is 1.
 
 Sample Case 2:
-The binary representation of  is , so the maximum number of consecutive 's is .
+The binary representation of 13(base10) is 1101(base2), so the maximum number of consecutive 1's is 2.
 */
 
 import java.io.*;
